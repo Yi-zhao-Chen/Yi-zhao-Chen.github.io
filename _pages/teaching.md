@@ -13,7 +13,7 @@ This is a course for students who major in physics, electronic engineering, and 
 
 My job includes conducting recitation sessions, collecting and grading assignments, proctoring the exams, and grading the exam papers.
 
-The supplementary materials that I delivered in the recitation session can be found in [my Git-Hub repository](https://github.com/Dale-X-Lee/Notes-on-Advanced-Mathematics).
+The supplementary materials that I delivered in the recitation session can be found in my Git-Hub repository [Notes-on-Advanced-Mathematics](https://github.com/Dale-X-Lee/Notes-on-Advanced-Mathematics).
 
 ## **Sept. 2024 - Dec. 2024: Advanced Mathematics A (I)** (as teaching assistant)
 
@@ -21,4 +21,4 @@ This is a course for students who major in physics, electronic engineering, and 
 
 My job includes conducting recitation sessions, collecting and grading assignments, proctoring the exams, and grading the exam papers.
 
-The supplementary materials that I delivered in the recitation session can be found in [my Git-Hub repository](https://github.com/Dale-X-Lee/Notes-on-Advanced-Mathematics).
+The supplementary materials that I delivered in the recitation session can be found in my Git-Hub repository [Notes-on-Advanced-Mathematics](https://github.com/Dale-X-Lee/Notes-on-Advanced-Mathematics).
