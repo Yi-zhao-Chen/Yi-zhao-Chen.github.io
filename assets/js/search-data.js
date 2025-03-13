@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "post-compact-lie-groups-as-boundaries-of-manifolds-in-chinese",
+        },{id: "post-notes-on-feynman-integral-and-feynman-diagram-in-chinese",
+      
+        title: "Notes on Feynman Integral and Feynman Diagram(In Chinese)",
+      
+      description: "A note on the deductions of the path integral and the Feynman diagram.",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/assets/pdf/posts/Feynman%E7%A7%AF%E5%88%86%E5%92%8CFeynman%E5%9B%BE.pdf";
+        
+      },
+    },{id: "post-compact-lie-groups-as-boundaries-of-manifolds-in-chinese",
       
         title: "Compact Lie Groups as Boundaries of Manifolds(In Chinese)",
       
@@ -46,6 +57,39 @@ ninja.data = [{
       handler: () => {
         
           window.location.href = "/blog/2025/Compact-Lie-Groups-as-Boundaries-of-Manifolds/";
+        
+      },
+    },{id: "post-three-counterexamples-about-mayer-vietoris-sequence-in-chinese",
+      
+        title: "Three Counterexamples About Mayer-Vietoris Sequence(In Chinese)",
+      
+      description: "When certain conditions are removed, there are examples where the Mayer-Vietoris sequence does not hold, where the excision theorem does not hold and where the homology groups of a pair of spaces is not isomorphic to that of the quotient space.",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/assets/pdf/posts/%E5%85%B3%E4%BA%8EM-V%E5%BA%8F%E5%88%97%E7%9A%84%E4%B8%89%E4%B8%AA%E5%8F%8D%E4%BE%8B.pdf";
+        
+      },
+    },{id: "post-notes-on-spectral-sequence-double-complex-derived-functor-and-universal-coefficient-theorem-in-chinese",
+      
+        title: "Notes on Spectral Sequence, Double Complex, Derived Functor and Universal Coefficient Theorem(In Chinese)...",
+      
+      description: "Prove some results related to derived functors and universal coefficient theorem using spectral sequences.",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/assets/pdf/posts/%E8%B0%B1%E5%BA%8F%E5%88%97%E3%80%81%E5%8F%8C%E5%A4%8D%E5%BD%A2%E4%B8%8E%E5%AF%BC%E5%87%BA%E5%87%BD%E5%AD%90%E3%80%81%E4%B8%87%E6%9C%89%E7%B3%BB%E6%95%B0%E5%AE%9A%E7%90%86.pdf";
+        
+      },
+    },{id: "post-proof-of-the-hodge-decomposition-on-riemannian-manifolds-in-chinese",
+      
+        title: "Proof of the Hodge Decomposition on Riemannian Manifolds(In Chinese)",
+      
+      description: "This note records a proof of Hodge decomposition on Riemannian manifolds. We view the Laplacian as the square of a Dirac operator, which is unbounded and self-adjoint. And we prove the theorem by showing that its &quot;inverse&quot; is compact.",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/assets/pdf/posts/%E9%BB%8E%E6%9B%BC%E6%B5%81%E5%BD%A2%E4%B8%8AHodge%E5%88%86%E8%A7%A3%E7%9A%84%E8%AF%81%E6%98%8E.pdf";
         
       },
     },{id: "post-deduction-of-morse-inequality-perfect-morse-function-and-decomposition-into-derict-sum-in-chinese",
