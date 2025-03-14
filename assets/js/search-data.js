@@ -37,7 +37,29 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "post-notes-on-feynman-integral-and-feynman-diagram-in-chinese",
+        },{id: "post-heat-equation-and-path-integral-from-stochastic-point-of-view-in-chinese",
+      
+        title: "Heat Equation and Path Integral From Stochastic Point of View(In Chinese)",
+      
+      description: "We show the relation between the Brownian motion and heat equation, and we give a path integral interpretation of a solution of heat equation.",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/assets/pdf/posts/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B%E8%A7%86%E8%A7%92%E4%B8%8B%E7%9A%84%E7%83%AD%E6%96%B9%E7%A8%8B%E4%B8%8E%E8%B7%AF%E5%BE%84%E7%A7%AF%E5%88%86.pdf";
+        
+      },
+    },{id: "post-existence-of-almost-complex-structure-on-spheres-in-chinese",
+      
+        title: "Existence of Almost Complex Structure on Spheres(In Chinese)",
+      
+      description: "This note records the proof that there is no almost complex structure on sphere unless its dimension is 2 or 6.",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/assets/pdf/posts/%E7%90%83%E9%9D%A2%E4%B8%8A%E8%BF%91%E5%A4%8D%E7%BB%93%E6%9E%84.pdf";
+        
+      },
+    },{id: "post-notes-on-feynman-integral-and-feynman-diagram-in-chinese",
       
         title: "Notes on Feynman Integral and Feynman Diagram(In Chinese)",
       
