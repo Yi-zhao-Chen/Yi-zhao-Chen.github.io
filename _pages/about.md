@@ -8,9 +8,9 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
+  # <p>555 your office number</p> 有了工位之后把前面的代码放在more_info里面
   more_info: >
     <p>(apparently not me) </p>
-    <p>555 your office number</p>
     <p>No.5 Yiheyuan Road, Haidian District,</p>
     <p>Beijing 100871, P.R.China</p>
 
