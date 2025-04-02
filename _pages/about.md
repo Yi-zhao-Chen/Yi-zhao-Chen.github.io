@@ -29,7 +29,7 @@ latest_posts:
 ---
 I am currently a graduated student in [Beijing International Center for Mathematical Research(BICMR)](https://bicmr.pku.edu.cn/), Peking University.
 
-And I am advised by advisvor's name, studying in ...
+My Ph.D advisor is [Thiang Guo Chuan](http://faculty.bicmr.pku.edu.cn/~guochuanthiang/).
 
 ## Interests
 
