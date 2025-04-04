@@ -28,7 +28,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am currently a Ph.D. student in [Beijing International Center for Mathematical Research(BICMR)](https://bicmr.pku.edu.cn/), Peking University, advised by [Thiang Guo Chuan](http://faculty.bicmr.pku.edu.cn/~guochuanthiang/).
+I am currently a Ph.D. student in [Beijing International Center for Mathematical Research(BICMR)](https://bicmr.pku.edu.cn/), Peking University, advised by [Guo Chuan Thiang](http://faculty.bicmr.pku.edu.cn/~guochuanthiang/).
 
 I obtained my Bachelor's degree in Mathematics and Applied Mathematics from [School of Mathematical Science](http://english.math.pku.edu.cn/), Peking University in 2024.
 
