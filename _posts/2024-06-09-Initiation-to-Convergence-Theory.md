@@ -244,5 +244,7 @@ $$T\xi$$的定义还告诉了我们一件事：如果一个收敛$$\xi$$严格�
 ## 参考文献
 
 [1] Dolecki, S., 2009. An initiation into convergence theory, in: Mynard, F., Pearl, E. (Eds.), Contemporary Mathematics. American Mathematical Society, Providence, Rhode Island, pp. 115–161. [https://doi.org/10.1090/conm/486/09509](https://doi.org/10.1090/conm/486/09509)
+
 [2]: Dolecki, S., Mynard, F., 2016. Convergence Foundations of Topology. WORLD SCIENTIFIC. [https://doi.org/10.1142/9012](https://doi.org/10.1142/9012)
+
 [3] Frič, R., 1997. History of Sequential Convergence Spaces, in: Aull, C.E., Lowen, R. (Eds.), Handbook of the History of General Topology, History of Topology. Springer Netherlands, Dordrecht, pp. 343–355. [https://doi.org/10.1007/978-94-017-0468-7_16](https://doi.org/10.1007/978-94-017-0468-7_16)
