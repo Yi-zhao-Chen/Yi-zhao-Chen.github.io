@@ -108,7 +108,7 @@ Dolcher在1960年的时候就考虑了什么样的序列收敛可以通过集合
 >
 > 特别的，记$$(x)_{\bullet} := (\{x\})_{\bullet}$$.
 >
-> (2)对于一个序列$$A: \mathbb{N} \rightarrow X$$，记$$A_k = \{S(n) \mid n \geq k\}$$，称由集合族$$\{A_k\}$$生成的滤子
+> (2)对于一个序列$$A: \mathbb{N} \rightarrow X$$，记$$A_k = \{A(n) \mid n \geq k\}$$，称由集合族$$\{A_k\}$$生成的滤子
 >
 > $$
 > \mathcal{S} = \{ B \in 2^X \mid \exists k \in \mathbb{N}, \text{s.t.} A_k \subseteq B\}
