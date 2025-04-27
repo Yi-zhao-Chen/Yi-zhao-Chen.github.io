@@ -59,7 +59,9 @@ $$
 一般的，可以给出序列收敛(sequential convergence)的定义：
 
 > **定义**：集合$$X$$上的一个**序列收敛**是一个$$X^{\mathbb{N}}$$与$$X$$的一个关系$$\xi$$，在$$(S, x) \in \xi$$时，记$$x \in \lim_\xi S$$. 我们要求$$\xi$$满足：
+>
 > (1)对$$x \in \lim_\xi S$$以及任意的一个子列$$S \circ t$$，有$$x \in \lim_\xi S \circ t$$.
+>
 > (2)对常值序列$$S(n) \equiv x$$，有$$x \in \lim_\xi S$$.
 
 一个具有序列收敛的集合被叫做一个**序列收敛空间(sequential convergence space)**。如果一个序列收敛还满足：
