@@ -169,6 +169,17 @@ ninja.data = [{
           window.location.href = "/blog/2024/Initiation-to-Convergence-Theory/";
         
       },
+    },{id: "post-a-collection-of-baker-campbell-hausdorff-type-formulas-in-chinese",
+      
+        title: "A Collection of Baker-Campbell-Hausdorff-Type formulas(In Chinese)",
+      
+      description: "A collection of formulas similar to Baker-Campbell-Hausdorff formula and their proofs (which are simpler than that of BCH formula).",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2024/A-Collection-of-Baker-Campbell-Hausdorff-Type-Formulas/";
+        
+      },
     },{id: "post-quot-odd-dimensional-quot-approach-to-hamiltonian-phase-flow",
       
         title: "&quot;Odd-dimensional&quot; Approach to Hamiltonian Phase Flow",
