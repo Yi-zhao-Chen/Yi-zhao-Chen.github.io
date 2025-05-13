@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Collection of Baker-Campbell-Hausdorff-Type formulas(In Chinese)
-date: 2024-05-09 23:25:16
+date: 2025-05-09 23:25:16
 description: A collection of formulas similar to Baker-Campbell-Hausdorff formula and their proofs (which are simpler than that of BCH formula).
 tags:
 categories: Notes
