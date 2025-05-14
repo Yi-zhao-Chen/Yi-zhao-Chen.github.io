@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "post-heat-equation-and-path-integral-from-stochastic-point-of-view-in-chinese",
+        },{id: "post-a-collection-of-baker-campbell-hausdorff-type-formulas-in-chinese",
+      
+        title: "A Collection of Baker-Campbell-Hausdorff-Type formulas(In Chinese)",
+      
+      description: "A collection of formulas similar to Baker-Campbell-Hausdorff formula and their proofs (which are simpler than that of BCH formula).",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/A-Collection-of-Baker-Campbell-Hausdorff-Type-Formulas/";
+        
+      },
+    },{id: "post-heat-equation-and-path-integral-from-stochastic-point-of-view-in-chinese",
       
         title: "Heat Equation and Path Integral From Stochastic Point of View(In Chinese)",
       
@@ -167,17 +178,6 @@ ninja.data = [{
       handler: () => {
         
           window.location.href = "/blog/2024/Initiation-to-Convergence-Theory/";
-        
-      },
-    },{id: "post-a-collection-of-baker-campbell-hausdorff-type-formulas-in-chinese",
-      
-        title: "A Collection of Baker-Campbell-Hausdorff-Type formulas(In Chinese)",
-      
-      description: "A collection of formulas similar to Baker-Campbell-Hausdorff formula and their proofs (which are simpler than that of BCH formula).",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2024/A-Collection-of-Baker-Campbell-Hausdorff-Type-Formulas/";
         
       },
     },{id: "post-quot-odd-dimensional-quot-approach-to-hamiltonian-phase-flow",
