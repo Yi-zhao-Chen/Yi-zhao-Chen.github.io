@@ -28,8 +28,11 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-<img src="assets/img/phdcomics.png" title="A comic by Jorge Cham" width="500">
-
+<div style="text-align: center">
+    <a href="https://phdcomics.com/comics/archive.php?comicid=116" target="_blank" rel="noopener noreferrer">
+        <img src="assets/img/phdcomics.png" title="A comic by Jorge Cham" width="500">
+    </a>
+</div>
 ---
 
 I am currently a Ph.D. student in [Beijing International Center for Mathematical Research(BICMR)](https://bicmr.pku.edu.cn/), Peking University, advised by [Guo Chuan Thiang](http://faculty.bicmr.pku.edu.cn/~guochuanthiang/).
