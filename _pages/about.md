@@ -28,6 +28,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
+<img src="assets/img/phdcomics.png" title="A comics by Jorge Cham" width="500">
+
+---
+
 I am currently a Ph.D. student in [Beijing International Center for Mathematical Research(BICMR)](https://bicmr.pku.edu.cn/), Peking University, advised by [Guo Chuan Thiang](http://faculty.bicmr.pku.edu.cn/~guochuanthiang/).
 
 I obtained my Bachelor's degree in Mathematics and Applied Mathematics from [School of Mathematical Science](http://english.math.pku.edu.cn/), Peking University in 2024.
@@ -39,7 +43,3 @@ My research interests lies in **Mathematical Physics**, especially in **Symplect
 Most of my leisure time is spent on bed or in the chair: sleeping, gaming, and sometimes writing (or typing, considering that I write with a computer). Some of the things that I wrote are posted on my blog (some of them are in Chinese). I prefer indie games with any of following ingredients: story-rich, puzzles, atmospheric, anti-utopia, and meta -- for example, *Rusty Lake* series, *Superliminal*, *Not for Broadcast* and *MiSide*(not played yet). I also enjoy some AAA games like *Metro* series, *Resident Evil IV*.
 
 Watching film is also my hobby. Unfortunately, I remember few films that I have watched, due to not having the habit of writing film reviews.
-
----
-
-<img src="assets/img/phdcomics.png" width="200">
