@@ -39,3 +39,7 @@ My research interests lies in **Mathematical Physics**, especially in **Symplect
 Most of my leisure time is spent on bed or in the chair: sleeping, gaming, and sometimes writing (or typing, considering that I write with a computer). Some of the things that I wrote are posted on my blog (some of them are in Chinese). I prefer indie games with any of following ingredients: story-rich, puzzles, atmospheric, anti-utopia, and meta -- for example, *Rusty Lake* series, *Superliminal*, *Not for Broadcast* and *MiSide*(not played yet). I also enjoy some AAA games like *Metro* series, *Resident Evil IV*.
 
 Watching film is also my hobby. Unfortunately, I remember few films that I have watched, due to not having the habit of writing film reviews.
+
+---
+
+<img src="assets/img/phdcomics.png" width="200">
