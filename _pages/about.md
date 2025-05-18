@@ -28,7 +28,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-<img src="assets/img/phdcomics.png" title="A comics by Jorge Cham" width="500">
+<img src="assets/img/phdcomics.png" title="A comic by Jorge Cham" width="500">
 
 ---
 
