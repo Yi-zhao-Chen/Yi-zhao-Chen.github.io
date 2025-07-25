@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "post-a-collection-of-baker-campbell-hausdorff-type-formulas-in-chinese",
+        },{id: "post-",
+      
+        title: "",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/2025-07-11-Bourgain's-Trick-From-Boundedness-to-Existence/";
+        
+      },
+    },{id: "post-a-collection-of-baker-campbell-hausdorff-type-formulas-in-chinese",
       
         title: "A Collection of Baker-Campbell-Hausdorff-Type formulas(In Chinese)",
       
