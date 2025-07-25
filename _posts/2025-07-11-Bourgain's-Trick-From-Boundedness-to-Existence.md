@@ -4,7 +4,6 @@ title: Bourgain's Trick: From Boundedness to Existence
 date: 2025-07-11 23:02:33
 description: This note records a trick in Bourgain's papers, which uses dual spaces and Hahn-Banach theorem to show existence of certain objects.
 tags:
-    
 categories: Notes
 toc:
     beginning: true
