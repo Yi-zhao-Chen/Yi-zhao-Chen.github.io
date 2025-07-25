@@ -30,15 +30,15 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "post-",
+        },{id: "post-bourgain-39-s-trick-from-boundedness-to-existence",
       
-        title: "",
+        title: "Bourgain&#39;s Trick-From Boundedness to Existence",
       
-      description: "",
+      description: "This note records a trick in Bourgain&#39;s papers, which uses dual spaces and Hahn-Banach theorem to show existence of certain objects.",
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2025/2025-07-11-Bourgain's-Trick-From-Boundedness-to-Existence/";
+          window.location.href = "/blog/2025/Bourgain's-Trick-From-Boundedness-to-Existence/";
         
       },
     },{id: "post-a-collection-of-baker-campbell-hausdorff-type-formulas-in-chinese",
