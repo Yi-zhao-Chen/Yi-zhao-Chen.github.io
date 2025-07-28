@@ -30,9 +30,9 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "post-bourgain-39-s-trick-from-boundedness-to-existence",
+        },{id: "post-bourgain-39-s-trick-from-boundedness-to-existence-in-chinese",
       
-        title: "Bourgain&#39;s Trick-From Boundedness to Existence",
+        title: "Bourgain&#39;s Trick-From Boundedness to Existence(In Chinese)",
       
       description: "This note records a trick in Bourgain&#39;s papers, which uses dual spaces and Hahn-Banach theorem to show existence of certain objects.",
       section: "Posts",
