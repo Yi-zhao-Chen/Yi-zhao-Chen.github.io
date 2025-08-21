@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "post-bourgain-39-s-trick-from-boundedness-to-existence-in-chinese",
+        },{id: "post-hofer-zehnder-capacity-and-proof-of-gromov-39-s-non-squeezing-theorem-in-chinese",
+      
+        title: "Hofer-Zehnder Capacity And Proof of Gromov&#39;s Non-squeezing Theorem(In Chinese)",
+      
+      description: "This note records a proof of Gromov&#39;s non-squeezing theorem, using the Hofer-Zehnder capacity. This proof mostly follows the one given by Hofer and Zehnder, except some slight modifications.",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/assets/pdf/posts/Hofer-Zehnder%E5%AE%B9%E9%87%8F%E4%B8%8EGromov%E4%B8%8D%E5%8F%AF%E5%8E%8B%E7%BC%A9%E5%AE%9A%E7%90%86%E7%9A%84%E8%AF%81%E6%98%8E.pdf";
+        
+      },
+    },{id: "post-bourgain-39-s-trick-from-boundedness-to-existence-in-chinese",
       
         title: "Bourgain&#39;s Trick-From Boundedness to Existence(In Chinese)",
       
