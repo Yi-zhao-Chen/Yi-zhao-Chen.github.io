@@ -30,7 +30,29 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "post-hofer-zehnder-capacity-and-proof-of-gromov-39-s-non-squeezing-theorem-in-chinese",
+        },{id: "post-",
+      
+        title: "",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/2025-08-24-Why-Caring-About-Space-of-Connections-An-Example-of-Gauge-Theories(In-Chinese)/";
+        
+      },
+    },{id: "post-first-integrals-of-hamiltonian-systems-and-reduction-of-dimension-in-chinese",
+      
+        title: "First Integrals of Hamiltonian Systems and Reduction of Dimension(In Chinese)",
+      
+      description: "A geometric way to reduce the dimenson of a Hamiltonian system with a first integral, together with some explanation on proof of Darboux&#39;s theorem.",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/First-Integrals-of-Hamiltonian-Systems-and-Reduction-of-Dimension(In-Chinese)/";
+        
+      },
+    },{id: "post-hofer-zehnder-capacity-and-proof-of-gromov-39-s-non-squeezing-theorem-in-chinese",
       
         title: "Hofer-Zehnder Capacity And Proof of Gromov&#39;s Non-squeezing Theorem(In Chinese)",
       
