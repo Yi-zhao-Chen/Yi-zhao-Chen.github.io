@@ -228,7 +228,17 @@ ninja.data = [{
           window.location.href = "/blog/2024/Odd-dimensional-Approach-to-Hamiltonian-Phase-Flow/";
         
       },
-    },{
+    },{id: "teaching-advanced-mathematics-a-i-as-teaching-assistant",
+          title: 'Advanced Mathematics A (I)(as teaching assistant)',
+          description: "From Sept. 2024 to Dec. 2024",
+          section: "Teaching",handler: () => {
+              window.location.href = "/teaching/2024-9-to-2024-12-Advanced-Mathematics-A(I)/";
+            },},{id: "teaching-advanced-mathematics-a-ii-as-teaching-assistant",
+          title: 'Advanced Mathematics A (II)(as teaching assistant)',
+          description: "From Feb. 2025 to Jun. 2025",
+          section: "Teaching",handler: () => {
+              window.location.href = "/teaching/2025-2-to-2025-6-Advanced-Mathematics-A(II)/";
+            },},{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
