@@ -6,18 +6,60 @@ description: The following are the courses which I taught or in which I served a
 nav: true
 nav_order: 3
 ---
-## **Feb. 2025 - Jun. 2025: Advanced Mathematics A (II)** (as teaching assistant)
+<!-- !改完这个文件记得去修改目录/teaching下的两个文件的front matter，-->
+<!-- 基本照抄project.md，唯一的差别是将collection中元素的排序顺序调整了一下，此外在config.yml中添加了enable_teaching_categories -->
 
-This is a course for students who major in physics, electronic engineering, and Compter Science. It is aimed at introducing students to the theories of multi integral, series, ODE and improper integral, and at providing them with mathematical foundations for further study. The text book is [《高等数学-下册》（第三版） by Zhong Li (李忠)](/assets/pdf/高等数学(第三版)下册-李忠,周建莹-北京大学出版社.pdf).
+<div class="teaching">
+{% if site.enable_teaching_categories and page.display_categories %}
+  <!-- Display categorized classes -->
+  {% for category in page.display_categories %}
+  <a id="{{ category }}" href=".#{{ category }}">
+    <h2 class="category">{{ category }}</h2>
+  </a>
+  {% assign categorized_teaching = site.teaching | where: "category", category %}
+  {% assign sorted_courses = categorized_teaching | sort: "date" | reverse %}
+  <!-- Generate cards for each class -->
+  {% if page.horizontal %}
+  <div class="container">
+    <div class="row row-cols-1 row-cols-md-2">
+    {% for course in sorted_courses %}
+      {% include projects_horizontal.liquid %}
+      <!-- !先试试projects_horizontal.liquid能不能用(下面一行也用了一次) -->
+    {% endfor %}
+    </div>
+  </div>
+  {% else %}
+  <div class="row row-cols-1 row-cols-md-3">
+    {% for course in sorted_courses %}
+      {% include projects.liquid %}
+    {% endfor %}
+  </div>
+  {% endif %}
+  {% endfor %}
 
-My job includes conducting recitation sessions, collecting and grading assignments, proctoring the exams, and grading the exam papers.
+{% else %}
 
-The supplementary materials that I delivered in the recitation session can be found via [this link](https://github.com/Dale-X-Lee/Notes-on-Advanced-Mathematics/tree/main/Spring-2025-Advanced-Math-2).
+<!-- Display projects without categories -->
 
-## **Sept. 2024 - Dec. 2024: Advanced Mathematics A (I)** (as teaching assistant)
+{% assign sorted_courses = site.teaching | sort: "date" | reverse %}
 
-This is a course for students who major in physics, electronic engineering, and Compter Science. It is aimed at introducing students to the theories of single-variable calculus, multivariable differential calculus and vector algebra, and at providing them with mathematical foundations for further study. The text book is [《高等数学-上册》（第三版） by Zhong Li (李忠)](/assets/pdf/高等数学(第三版)上册-李忠,周建莹-北京大学出版社.pdf).
+<!-- Generate cards for each project -->
 
-My job includes conducting recitation sessions, collecting and grading assignments, proctoring the exams, and grading the exam papers.
+{% if page.horizontal %}
 
-The supplementary materials that I delivered in the recitation session can be found via [this link](https://github.com/Dale-X-Lee/Notes-on-Advanced-Mathematics/tree/main/Autumn-2024-Advanced-Math-1).
+<div class="container">
+    <div class="row row-cols-1 row-cols-md-2">
+    {% for course in sorted_courses %}
+      {% include projects_horizontal.liquid %}
+    {% endfor %}
+    </div>
+  </div>
+  {% else %}
+  <div class="row row-cols-1 row-cols-md-3">
+    {% for course in sorted_courses %}
+      {% include projects.liquid %}
+    {% endfor %}
+  </div>
+  {% endif %}
+{% endif %}
+</div>
