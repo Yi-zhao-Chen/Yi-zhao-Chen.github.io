@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Advanced Mathematics A (II)(as teaching assistant)
-description: From Feb. 2025 to Jun. 2025
+title: Advanced Mathematics A(II)
+description: From Feb. 2025 to Jun. 2025(as teaching assistant)
 date: 2025-02-26 00:00:01
 img:
 ---

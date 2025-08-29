@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Advanced Mathematics A (I)(as teaching assistant)
-description: From Sept. 2024 to Dec. 2024
+title: Advanced Mathematics A(I)
+description: From Sept. 2024 to Dec. 2024(as teaching assistant)
 date: 2024-09-09 00:00:01
 img:
 ---

@@ -6,7 +6,7 @@ description: The following are the courses which I taught or in which I served a
 nav: true
 nav_order: 3
 display_categories:
-horizontal: false
+horizontal: true
 ---
 <!-- 基本照抄project.md，唯一的差别是将collection中元素的排序顺序调整了一下，此外在config.yml中添加了enable_teaching_categories -->
 
