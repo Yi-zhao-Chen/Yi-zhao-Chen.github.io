@@ -23,16 +23,16 @@ horizontal: true
   {% if page.horizontal %}
   <div class="container">
     <div class="row row-cols-1 row-cols-md-2">
-    {% for course in sorted_courses %}
-      {% include projects_horizontal.liquid project=course%}
-      <!-- projects_horizontal.liquid能用，但需要将变量course传递到变量project上 -->
+    {% for project in sorted_courses %}
+      {% include projects_horizontal.liquid %}
+      <!-- projects_horizontal.liquid能用 -->
     {% endfor %}
     </div>
   </div>
   {% else %}
   <div class="row row-cols-1 row-cols-md-3">
-    {% for course in sorted_courses %}
-      {% include projects.liquid project=course %}
+    {% for project in sorted_courses %}
+      {% include projects.liquid %}
       <!-- projects.liquid能用，但需要将变量course传递到变量project上 -->
     {% endfor %}
   </div>
@@ -51,15 +51,15 @@ horizontal: true
 
 <div class="container">
     <div class="row row-cols-1 row-cols-md-2">
-    {% for course in sorted_courses %}
-      {% include projects_horizontal.liquid project=course%}
+    {% for project in sorted_courses %}
+      {% include projects_horizontal.liquid %}
     {% endfor %}
     </div>
   </div>
   {% else %}
   <div class="row row-cols-1 row-cols-md-3">
-    {% for course in sorted_courses %}
-      {% include projects.liquid project=course%}
+    {% for project in sorted_courses %}
+      {% include projects.liquid %}
     {% endfor %}
   </div>
   {% endif %}
