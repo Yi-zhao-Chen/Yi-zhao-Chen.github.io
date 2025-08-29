@@ -30,15 +30,15 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "post-",
+        },{id: "post-why-caring-about-space-of-connections-an-example-of-gauge-theories-in-chinese",
       
-        title: "",
+        title: "Why Caring About Space of Connections - An Example of Gauge Theories(In Chinese)...",
       
-      description: "",
+      description: "Try to explain why mathematicians&#39; gauge theory are interested in the set of all connections over a principal bundle,using the electromagnetic field as the simplest example.",
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2025/2025-08-24-Why-Caring-About-Space-of-Connections-An-Example-of-Gauge-Theories(In-Chinese)/";
+          window.location.href = "/assets/pdf/posts/%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E6%B1%82%E8%A7%A3%E8%81%94%E7%BB%9C.pdf";
         
       },
     },{id: "post-first-integrals-of-hamiltonian-systems-and-reduction-of-dimension-in-chinese",
