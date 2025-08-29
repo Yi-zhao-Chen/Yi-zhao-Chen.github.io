@@ -5,8 +5,9 @@ title: Teaching
 description: The following are the courses which I taught or in which I served as a teaching assistant.
 nav: true
 nav_order: 3
+display_categories:
+horizontal: false
 ---
-<!-- !改完这个文件记得去修改目录/teaching下的两个文件的front matter，-->
 <!-- 基本照抄project.md，唯一的差别是将collection中元素的排序顺序调整了一下，此外在config.yml中添加了enable_teaching_categories -->
 
 <div class="teaching">
