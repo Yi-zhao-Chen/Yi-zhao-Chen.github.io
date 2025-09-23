@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "post-why-caring-about-space-of-connections-an-example-of-gauge-theories-in-chinese",
+        },{id: "post-an-application-of-the-uniform-boundedness-principle-on-the-continuity-of-lie-group-39-s-representations-in-chinese",
+      
+        title: "An Application of the Uniform Boundedness Principle - On the Continuity of Lie...",
+      
+      description: "Provide an application of the uniform boundedness principle that is not so &quot;analytic&quot;.",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/An-Application-of-the-Uniform-Boundedness-Principle-On-the-Continuity-of-Lie-Group's-Representations(In-Chinese)/";
+        
+      },
+    },{id: "post-why-caring-about-space-of-connections-an-example-of-gauge-theories-in-chinese",
       
         title: "Why Caring About Space of Connections - An Example of Gauge Theories(In Chinese)...",
       
