@@ -30,7 +30,7 @@ latest_posts:
 
 <div style="text-align: center">
     <a href="https://phdcomics.com/comics/archive.php?comicid=116" target="_blank" rel="noopener noreferrer">
-        <img src="../assets/img/phdcomics.png" title="A comic by Jorge Cham" width="400">
+        <img src="../assets/img/phdcomics.png" title="A comic by Jorge Cham" width="350">
     </a>
 </div>
 <div style="height: 10px;"></div>
