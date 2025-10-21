@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "post-an-application-of-the-uniform-boundedness-principle-on-the-continuity-of-lie-group-39-s-representations-in-chinese",
+        },{id: "post-function-on-surfaces-with-3-critical-points-in-chinese",
+      
+        title: "Function on Surfaces With 3 Critical Points(In Chinese)",
+      
+      description: "Provide some explanation for Banchoff&#39;s construction of functions on surfaces with 3 critical points.",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/Function-on-Surfaces-With-3-Critical-Points(In-Chinese)/";
+        
+      },
+    },{id: "post-an-application-of-the-uniform-boundedness-principle-on-the-continuity-of-lie-group-39-s-representations-in-chinese",
       
         title: "An Application of the Uniform Boundedness Principle - On the Continuity of Lie...",
       
