@@ -8,7 +8,9 @@ categories: Notes
 ---
 
 这篇笔记是对Cassidy Curtis的一个构造的解释。他的构造给出了环面上一个仅有三个临界点的函数，并且将它实现为了某个高度函数。他的办法如下图所示
-![Strange Immersion](../assets/img/posts/2025-09-30-Function-on-Surfaces-With-3-Critical-Points/strange.gif)
+<div>
+    {% include figure.liquid loading="eager" path="../assets/img/posts/2025-09-30-Function-on-Surfaces-With-3-Critical-Points/strange.gif" class="img-fluid rounded z-depth-1" zoomable=true %}
+</div>
 相关的更详细讨论可以参考Banchoff的文章[Height functions on surfaces with three critical values](https://doi.org/10.2969/JMSJ/06310153)以及Curtis的[网站](http://otherthings.com/uw/torus.html).
 
 在Curtis的构造中，最关键的一步是IV. IV之外的部分只是在解释如何对两个半球做形变，使得它们能粘贴到IV的上方和下方。我们下面只解释IV的构造思路。
@@ -22,7 +24,9 @@ $$
 其中$$S^{2}_{\pm}$$是上、下半球面，$$\Sigma$$有上、下两个同胚于$$S^{1}$$的边界，且包含一个猴鞍。
 
 我们直接取一个猴鞍面$$z=x^{3}-3xy^{2}$$，取它落在圆柱$$\vert z\vert \leqslant 1,x^{2}+y^{2}\leqslant 4$$的部分，如下图所示
-![Monkey Saddle](../assets/img/posts/2025-09-30-Function-on-Surfaces-With-3-Critical-Points/monkey-saddle.png)
+<div>
+    {% include figure.liquid loading="eager" path="../assets/img/posts/2025-09-30-Function-on-Surfaces-With-3-Critical-Points/monkey-saddle.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+</div>
 这时得到的曲面和IV的最中心部分是一样的，我们唯一要做的事情是，将位于$$x^{2}+y^{2}=2$$上的六条边两两一组粘起来，使得粘贴后，曲面上方的三条边被粘成一个$$S^{1}$$，下方的三条边粘成另一个$$S^{1}$$. 这样的粘贴方式几乎是唯一的：我们将$$x^{2}+y^{2}=4$$上相对的边粘起来（这一粘贴过程用俯视图可以很快画出来）。粘贴完成之后，我们就得到了Curtis的图片中的IV.
 
 可以验证，粘出来的IV是可定向的，我们再粘上两个半球的话，得到的曲面仍然是可定向的。此外计算欧拉示性数不难发现，我们最终得到的曲面的确是环面$$T^{2}$$.
