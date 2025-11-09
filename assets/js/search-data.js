@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "post-function-on-surfaces-with-3-critical-points-in-chinese",
+        },{id: "post-non-existence-of-tensor-product-of-hilber-spaces",
+      
+        title: "Non-existence of Tensor Product of Hilber Spaces",
+      
+      description: "We give a proof of that there is no space satisfying the naive analogy of unversal property of the (algebraic) tensor product.",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/assets/pdf/posts/Non-existence%20of%20Tensor%20Product%20of%20Hilber%20Spaces.pdf";
+        
+      },
+    },{id: "post-function-on-surfaces-with-3-critical-points-in-chinese",
       
         title: "Function on Surfaces With 3 Critical Points(In Chinese)",
       
