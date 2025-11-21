@@ -8,9 +8,9 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  # <p>555 your office number</p> 有了工位之后把前面的代码放在more_info里面
   more_info: >
     <p>(apparently not me) </p>
+    <p>Jiayibing Building 82J18</p> 有了工位之后把前面的代码放在more_info里面
     <p>No.5 Yiheyuan Road, Haidian District,</p>
     <p>Beijing 100871, P.R.China</p>
 
@@ -41,6 +41,6 @@ I obtained my Bachelor's degree in Mathematics and Applied Mathematics from [Sch
 
 ## Interests
 
-My research interests lies in **Mathematical Physics**, especially in **Morse Theory** and **Index Theory**. I am interested in describing topology of manifolds using tools from analysis and geometry. Recently, I am learning Atiyah-Singer index theorem and [Carey-Pincus theory](https://link.springer.com/chapter/10.1007/978-3-0348-0411-0_16); I am also interested in geometric formulation of theories of physics -- though I am not quite good at physics.
+My research interests lies in **Mathematical Physics**, **Morse Theory** and **Index Theory**. I am interested in describing topology of manifolds using tools from analysis and geometry. Recently, I am learning Atiyah-Singer index theorem and [Carey-Pincus theory](https://link.springer.com/chapter/10.1007/978-3-0348-0411-0_16); I am also interested in geometric formulation of theories of physics -- though I am not quite good at physics.
 
 Most of my leisure time is spent on bed or in the chair: sleeping, gaming, and sometimes writing (or typing, considering that I write with a computer). Some of the things that I wrote are posted on my blog (some of them are in Chinese). I prefer indie games with any of following ingredients: story-rich, puzzles, atmospheric, anti-utopia, and meta -- for example, *Rusty Lake* series, *Superliminal*, *Not for Broadcast* and *MiSide*(not played yet). I also enjoy some AAA games like *Metro* series, *Resident Evil IV*.
