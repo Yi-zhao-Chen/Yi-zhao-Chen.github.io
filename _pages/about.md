@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>(apparently not me) </p>
-    <p>Jiayibing Building 82J18</p> 有了工位之后把前面的代码放在more_info里面
+    <p>Jiayibing Building 82J18</p>
     <p>No.5 Yiheyuan Road, Haidian District,</p>
     <p>Beijing 100871, P.R.China</p>
 
