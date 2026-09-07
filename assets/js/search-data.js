@@ -30,15 +30,15 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "post-",
+        },{id: "post-spin-representation-and-fermions-in-chinese",
       
-        title: "",
+        title: "Spin Representation and Fermions(In Chinese)",
       
-      description: "",
+      description: "We describe a case where the irreducible representation of Clifford algebras &quot;naturally&quot; appear - the creation and annihilation operators acting on the space of quantum states of many-fermion system.",
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2026/2026-06-25-Spin-Representation-and-Fermions/";
+          window.location.href = "/blog/2026/Spin-Representation-and-Fermions/";
         
       },
     },{id: "post-magnetic-monopole-and-quantization-of-magnetic-charge-in-chinese",
