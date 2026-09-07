@@ -2,7 +2,7 @@
 layout: post
 title: Spin Representation and Fermions(In Chinese)
 date: 2026-06-25 22:59:01
-description: We describe a case where the irreducible representation of Clifford algebras "naturally" appear: the creation and annihilation operators acting on the space of quantum states of many-fermion system.
+description: We describe a case where the irreducible representation of Clifford algebras "naturally" appear - the creation and annihilation operators acting on the space of quantum states of many-fermion system.
 tags:
 categories: Notes
 toc:
