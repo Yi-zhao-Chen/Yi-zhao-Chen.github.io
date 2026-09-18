@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "post-spin-representation-and-fermions-in-chinese",
+        },{id: "post-writing-operators-as-sum-of-commutators",
+      
+        title: "Writing Operators as Sum of Commutators",
+      
+      description: "A review on Anderson and Vaserstein&#39;s paper.",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/assets/pdf/posts/Writing%20Operators%20as%20Sum%20of%20Commutators.pdf";
+        
+      },
+    },{id: "post-spin-representation-and-fermions-in-chinese",
       
         title: "Spin Representation and Fermions(In Chinese)",
       
